@@ -1,0 +1,79 @@
+#cubic{
+    color: black;
+    font-weight: bolder;
+}
+#cubic:hover{
+    color: red !important;
+}
+input{
+    background-image: url('/images/search.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 40px;
+}
+.new{
+    background-color: tomato;
+    opacity: 100%;
+    width: 100%;
+    padding: 3px;
+}
+.max-width{
+    max-width: 300px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.images{
+    width: 300px;
+}
+.mw{
+    max-width: 600px;
+}
+.debate{
+    max-width: 200px;
+}
+.card-group{
+    max-width: px;
+}
+.bold{
+    
+    color: black;
+    font-size: 13px;
+}
+.parag{
+    font-size: 13px;
+}
+a:hover{
+    color: red;
+}
+.texta{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+.texta:hover{
+    text-decoration-color: red;
+}
+.logo{
+    width: 200px;
+    height: 80px;
+    padding-bottom: 0%;
+}
+footer{
+    font-size: 13px;
+}
+.fur:hover{
+    color: black;
+}
+.textb{
+    font-size: 13px;
+}
+.textb{
+    color: black !important;
+    font-weight: bolder;
+}
+.textb:hover{
+    text-decoration-color: red;
+}
+.btn1{
+    background-color: red !important;
+}
